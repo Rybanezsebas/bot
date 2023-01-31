@@ -64,7 +64,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/BrunoSobrino/Mystic-termux.git && cd Mystic-termux
+git clone https://github.com/Rybanezsebas/bot && cd Mystic-termux
 ```
 
 ```bash
@@ -91,7 +91,7 @@ npm start
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd Mystic-termux
+> cd bot
 > npm start
 ```
 
